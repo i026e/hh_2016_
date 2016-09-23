@@ -132,8 +132,6 @@ def find_index(values):
     shift = len(str(min_val)) - len(str(values[0]))
 
     index = index_of(min_val) + shift
-
-
     return index
 
 def position_in_digit_seq(line):

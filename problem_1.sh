@@ -16,6 +16,6 @@ echo "3
 2 1 2
 2 1 2" | python3 ./problem_1.py
 
-echo "Read from file"
-
+echo "Read from files"
 python3 ./problem_1.py < pr1_ex1.txt
+python3 ./problem_1.py < pr1_ex2.txt
